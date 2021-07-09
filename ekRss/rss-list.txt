@@ -1,0 +1,10 @@
+http://klek.blogspot.com/feeds/posts/default
+http://cccp.jahber.org/?feed=rss2
+http://www.getdeb.net/rss.php?distro_id=5
+http://linux-ru.blogspot.com/feeds/posts/default
+http://lice.wordpress.com/feed/
+feed:http://linux.org.ru/rss.jsp
+http://www.russlavbank.com/modules/rsbrss.php
+
+
+

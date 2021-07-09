@@ -1,0 +1,3 @@
+echo Start....
+c:\Python27\python.exe c:\RSAFtpCp\ekrsaftpcp2.py
+echo Done

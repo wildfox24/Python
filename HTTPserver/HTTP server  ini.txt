@@ -1,0 +1,2 @@
+DefPort	80
+DefPath	\SD Card\www\
